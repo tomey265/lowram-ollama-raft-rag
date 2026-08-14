@@ -113,6 +113,12 @@ A deeper dive into these settings, with benchmarks, is planned as a follow-up re
 - **Small local models drift on formatting.** Even with explicit instructions, a small quantized model won't always follow output format exactly (e.g., citation placement) without a concrete example in the prompt. Providing an example, rather than just an instruction, measurably helped.
 - **This repo does not include fine-tuning.** It stops at dataset generation. Actually fine-tuning a model on RAFT-style data is a larger, separate undertaking.
 
-## License
+  **## Support
 
-MIT
+If you find this project useful, consider supporting its continued development:
+
+[Donate]https://venmo.com/tomey265
+
+Your support helps fund maintenance, improvements, and future development. Thank you!
+
+## License: MIT
