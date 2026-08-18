@@ -117,7 +117,7 @@ A deeper dive into these settings, with benchmarks, is planned as a follow-up re
 
 If you find this project useful, consider supporting its continued development:
 
-[Donate]  https://venmo.com/tomey265
+[Donate]  https://paypal.com/paypalme/tomey265
 
 Your support helps fund maintenance, improvements, and future development. Thank you!
 
